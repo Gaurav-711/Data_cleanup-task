@@ -8,7 +8,7 @@ The dataset was messy and required cleaning before being used in the CRM system.
 This project implements a Python script that processes the raw `signups.xls` file and generates:
 
 - `members_final.csv` → Cleaned Golden Record
-- `quarantine.csv` → Low-quality or invalid leads
+- `Extra.csv` → Low-quality or invalid leads
 
 ---
 
