@@ -1,0 +1,3 @@
+name,email,signup_date,plan,notes,Extra
+Test User,test@test.com,2023-05-01,Plan A,IGNORE THIS,True
+Alice Wonderland,alice@wonder.land,2023-07-07,Plan C,VIP,True

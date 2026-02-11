@@ -1,0 +1,4 @@
+name,email,signup_date,plan,notes,Extra,is_multi_plan
+Bob,bob@outlook.com,2026-02-10,Plan A,,False,False
+Jane Smith,jane.smith@yahoo.com,2023-12-02,Plan B,,False,False
+John Doe,jdoe@gmail.com,2023-01-22,Plan A,,False,True
