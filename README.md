@@ -23,7 +23,7 @@ The script handles the following business requirements:
    Ensure only one record per member exists in the final output.
 
 3. **Low-Quality Lead Detection**  
-   Rows that appear to be test data, invalid, or structurally corrupted are moved to `quarantine.csv`.
+   Rows that appear to be test data, invalid, or structurally corrupted are moved to `Extra.csv`.
 
 4. **Multi-Plan Context Rule**  
    If a member signed up for multiple plans (e.g., Plan A and Plan B):
